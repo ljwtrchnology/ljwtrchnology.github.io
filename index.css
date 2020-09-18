@@ -1,0 +1,7 @@
+.box{
+    color: yellow;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    background: linear-gradient(to right, red,yellow);
+}
